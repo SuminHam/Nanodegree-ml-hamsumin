@@ -7,7 +7,7 @@
  ### ssh 설치
  
  나는 window 환경이니 powershell에 접속해 vscode 전까지의 과정을 밟자. (회사 들어가면 맥북을 쓰도록 하자..)
- * 참고: https://cloud.google.com/compute/docs/connect/create-ssh-keys?hl=ko
+ * 참고: https://www.servermon.kr/m/board.html?code=servermon_board2&page=1&type=v&board_cate=&num1=999684&num2=00000&number=298&lock=N
 
  ### ssh 키 생성
 
